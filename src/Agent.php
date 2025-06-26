@@ -13,12 +13,12 @@ class Agent extends MobileDetect
     /**
      * A type for the version() method indicating a string return value.
      */
-    protected const VERSION_TYPE_STRING = 'text';
+    public const VERSION_TYPE_STRING = 'text';
 
     /**
      * A type for the version() method indicating a float return value.
      */
-    protected const VERSION_TYPE_FLOAT = 'float';
+    public const VERSION_TYPE_FLOAT = 'float';
 
     /**
      * List of desktop devices.
