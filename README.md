@@ -13,7 +13,9 @@ A PHP desktop/mobile user agent parser with support for Laravel, based on [Mobil
 
 > [!important]
 > This fork is for B/C purpose.
-> If you need a long-term support, please try https://github.com/hisorange/browser-detect
+> If you need a long-term support, please try 
+> - https://github.com/WhichBrowser/Parser-PHP
+> - https://github.com/hisorange/browser-detect
 
 <p align="center">
 <img src="https://jenssegers.com/static/media/agent.png" height="275">
